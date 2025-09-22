@@ -4,6 +4,8 @@ Le projet consite en l'étude du jeu de donnée météo : https://public.opendat
 
 Pour récupérer le jeu de données, récupérer le fichier CSV (première ligne de la page)
 
+Le fichier CSV est à glisser dans le dossier data (il faut les créer pour faire tourner le code).
+
 Le document rendus, sous la forme d'un \textbf{notebook Jupyter}, devra contenir au moins :
 
 1) Une présentation des données avec des résumées numériques et graphiques des données. (Plusieurs évidement)
