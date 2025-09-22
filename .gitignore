@@ -2,4 +2,4 @@
 .DS_Store
 
 # Ignore fichier data CSV
-data/donnees-synop-essentielles-omm.csv
+data/
