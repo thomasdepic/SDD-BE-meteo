@@ -1,0 +1,5 @@
+# Ignore macOS metadata
+.DS_Store
+
+# Ignore fichier data CSV
+data/donnees-synop-essentielles-omm.csv
