@@ -6,13 +6,15 @@ Le projet consiste en l'étude du jeu de donnée météo : https://public.openda
 Pour récupérer le jeu de données, récupérer le fichier CSV ci-dessus.
 
 ## Folder Structure
-Le fichier CSV est à glisser dans le dossier data, à créer pour faire tourner le code. Structure attendue du dossier :
-.
-└── SDD-BE-METEO/
-    ├── data/
-    │   └── donnees-synop-essentielles-omm.csv
-    ├── CR.ipynb
-    └── README.md
+Le fichier CSV est à glisser dans le dossier data, à créer pour faire tourner le code. Structure attendue du dossier :  
+
+
+.  
+└── SDD-BE-METEO  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── data  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── donnees-synop-essentielles-omm.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── CR.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── README.md
 
 
 ## Getting Started
