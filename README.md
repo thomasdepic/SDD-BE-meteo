@@ -18,7 +18,8 @@ Le fichier CSV est à glisser dans le dossier data, à créer pour faire tourner
 
 1. Cloner ce repo
 2. Vérifier que R est installé, ainsi que Python 3.11+
-3. Ouvrir CR.ipynb
+3. Télécharger le fichier de donnée indiqué dans la section Dataset ci-dessous
+4. Ouvrir CR.ipynb
 
 ## Dependencies
 
