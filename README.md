@@ -23,7 +23,16 @@ Le fichier CSV est à glisser dans le dossier data, à créer pour faire tourner
 
 ## Dependencies
 
-- Dépendances standards sdd 
+- Dépendances standards sdd  
+- Pour l'affichage des cartes : installation de  
+&nbsp;&nbsp;&nbsp; - sf et ses dépendances  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dans bash : sudo apt-get -y update && sudo apt-get install -y  libudunits2-dev libgdal-dev libgeos-dev libproj-dev  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Puis dans R : install.packages("sf")  
+&nbsp;&nbsp;&nbsp; - ggplot2  
+&nbsp;&nbsp;&nbsp; - rnaturalearth  
+&nbsp;&nbsp;&nbsp; - rnaturalearthdata  
+
+
 
 ## Consignes 
 
